@@ -138,7 +138,7 @@
 
 @media only screen and (max-width: 500px) {
   .header {
-    grid-template-rows: 8rem 35vh 38vh;
+    grid-template-rows: 8rem 35vh 42vh;
   }
   .text__box--button {
     font-size: 1.8rem;
