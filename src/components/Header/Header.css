@@ -138,7 +138,7 @@
 
 @media only screen and (max-width: 500px) {
   .header {
-    grid-template-rows: 8rem 35vh 42vh;
+    grid-template-rows: 8rem 35rem 45rem;
   }
   .text__box--button {
     font-size: 1.8rem;
@@ -152,7 +152,7 @@
 
   .text__box--para {
     font-size: 2.5rem;
-    width: 90%;
+    width: 85%;
   }
   .menu {
     padding: 1rem;
