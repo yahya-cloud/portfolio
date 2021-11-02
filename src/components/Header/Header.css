@@ -99,7 +99,6 @@
 
 @media only screen and (max-width: 900px) {
   .header {
-    grid-template-columns: repeat(2, minmax(max-content, 1fr));
     grid-template-rows: 7rem 30vh 55vw;
   }
   .text__box--button {
