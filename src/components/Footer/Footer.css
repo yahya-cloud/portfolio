@@ -17,6 +17,10 @@
   position: relative;
 }
 
+.content_container {
+  width: 100%;
+  max-width: 200rem;
+}
 .contact_info {
   display: flex;
   margin: 2rem 0rem;
@@ -69,9 +73,7 @@
   margin-top: -2rem;
   background-size: cover;
   background-position: center;
-
 }
-
 
 .copyright {
   color: #fff;
@@ -88,7 +90,7 @@
     margin: 0;
     position: relative;
     left: 50%;
-    transform: translateX(-50%)!important;
+    transform: translateX(-50%) !important;
   }
 
   .about_container {
@@ -120,7 +122,13 @@
     flex-direction: column;
   }
 
-  .contact_mail{
+  .contact_mail {
     margin: 1rem;
+  }
+}
+
+@media only screen and (min-width: 2500px) {
+  .img_container {
+    margin-left: 20rem;
   }
 }

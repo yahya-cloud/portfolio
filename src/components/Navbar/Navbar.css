@@ -22,8 +22,8 @@
   margin-top: 3px;
   margin-left: 10px;
   display: block;
-  width: 12px;
-  height: 12px;
+  width: 1.2rem;
+  height: 1.2rem;
   border-radius: 50%;
   border: 2px solid #e29e21;
   transition: all 0.2s ease;
@@ -31,7 +31,7 @@
 
 .navItem__text {
   left: 0;
-  font-size: 15px;
+  font-size: 1.5rem;
   font-weight: 900;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -59,3 +59,4 @@
     font-size: 12px;
   }
 }
+

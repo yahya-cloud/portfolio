@@ -1,5 +1,4 @@
 .svg {
-  height: 95%;
   width: 100%;
   position: absolute;
   right: 6rem;
@@ -17,6 +16,7 @@ g {
 
 @media only screen and (max-width: 900px) {
   .svg {
+    height: 95%;
     /* height: 30rem; */
     right: 0;
   }
