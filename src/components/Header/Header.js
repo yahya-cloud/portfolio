@@ -10,10 +10,6 @@ const Header = () => {
     <div className="header" id="home">
       <div className="menu">
         <Navbar />
-
-        {/* <div className='icon__box'>
-          <Icon size='small' section='header' />
-        </div> */}
       </div>
       <div
         data-aos="fade-right"
